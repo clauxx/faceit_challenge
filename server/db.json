@@ -1,0 +1,381 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "game": {
+        "id": 2,
+        "name": "Red Dead Redemption 2",
+        "posterUrl": "https://m.media-amazon.com/images/I/71q1DG5rztL._AC_SL1500_.jpg",
+        "releaseYear": "2018"
+      },
+      "author": {
+        "id": 1,
+        "name": "John Smith",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Red Dead Redemption 2 is an epic western masterpiece. The attention to detail is staggering, from the gorgeous vistas to the realistic horse mechanics. The story is emotional and thought-provoking, and the characters are some of the best written in gaming history. I highly recommend this game to anyone who loves a good story and immersive gameplay."
+    },
+    {
+      "id": 2,
+      "game": {
+        "id": 5,
+        "name": "Control",
+        "posterUrl": "https://cdnb.artstation.com/p/assets/images/images/034/036/195/large/maeve-althea-control-movie-poster-3.jpg?1611227341",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 2,
+        "name": "Jane Doe",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Control is a supernatural thrill ride with a mind-bending story that will keep you on the edge of your seat. The combat is fun and the powers you get are varied and interesting. The setting is also a character in itself, with a unique and mysterious atmosphere that makes exploring the environment just as fun as the combat. Highly recommended."
+    },
+    {
+      "id": 3,
+      "game": {
+        "id": 6,
+        "name": "Hades",
+        "posterUrl": "https://m.media-amazon.com/images/I/71FjVhf-SlL._AC_UF894,1000_QL80_.jpg",
+        "releaseYear": "2020"
+      },
+      "author": {
+        "id": 3,
+        "name": "Bob Johnson",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Hades is a masterpiece of game design. The gameplay is fast-paced and addictive, and the story is expertly woven into the gameplay. The art style is beautiful and the voice acting is top-notch. I can't recommend this game enough, it's truly a work of art."
+    },
+    {
+      "id": 4,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 4,
+        "name": "Alice Chen",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Disco Elysium is a true work of art. The writing is brilliant, with sharp wit and an unapologetic exploration of heavy themes. The game mechanics are unique and add to the experience, making it feel like a true RPG. The world is rich and immersive, with gorgeous visuals and a haunting soundtrack. I highly recommend this game to anyone looking for a deep, immersive experience."
+    },
+    {
+      "id": 5,
+      "game": {
+        "id": 3,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "posterUrl": "https://static.posters.cz/image/750/poster/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
+        "releaseYear": "2017"
+      },
+      "author": {
+        "id": 5,
+        "name": "James Lee",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Breath of the Wild is an amazing game that truly captures the essence of exploration and adventure."
+    },
+
+
+    {
+      "id": 6,
+      "game": {
+        "id": 5,
+        "name": "Control",
+        "posterUrl": "https://cdnb.artstation.com/p/assets/images/images/034/036/195/large/maeve-althea-control-movie-poster-3.jpg?1611227341",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 1,
+        "name": "John Smith",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Red Dead Redemption 2 is an epic western masterpiece. The attention to detail is staggering, from the gorgeous vistas to the realistic horse mechanics. The story is emotional and thought-provoking, and the characters are some of the best written in gaming history. I highly recommend this game to anyone who loves a good story and immersive gameplay."
+    },
+    {
+      "id": 7,
+      "game": {
+        "id": 2,
+        "name": "Red Dead Redemption 2",
+        "posterUrl": "https://m.media-amazon.com/images/I/71q1DG5rztL._AC_SL1500_.jpg",
+        "releaseYear": "2018"
+      },
+      "author": {
+        "id": 2,
+        "name": "Jane Doe",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Control is a supernatural thrill ride with a mind-bending story that will keep you on the edge of your seat. The combat is fun and the powers you get are varied and interesting. The setting is also a character in itself, with a unique and mysterious atmosphere that makes exploring the environment just as fun as the combat. Highly recommended."
+    },
+    {
+      "id": 8,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 3,
+        "name": "Bob Johnson",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Hades is a masterpiece of game design. The gameplay is fast-paced and addictive, and the story is expertly woven into the gameplay. The art style is beautiful and the voice acting is top-notch. I can't recommend this game enough, it's truly a work of art."
+    },
+    {
+      "id": 9,
+      "game": {
+        "id": 3,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "posterUrl": "https://static.posters.cz/image/750/poster/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
+        "releaseYear": "2017"
+      },
+      "author": {
+        "id": 4,
+        "name": "Alice Chen",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Disco Elysium is a true work of art. The writing is brilliant, with sharp wit and an unapologetic exploration of heavy themes. The game mechanics are unique and add to the experience, making it feel like a true RPG. The world is rich and immersive, with gorgeous visuals and a haunting soundtrack. I highly recommend this game to anyone looking for a deep, immersive experience."
+    },
+    {
+      "id": 10,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 5,
+        "name": "James Lee",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Breath of the Wild is an amazing game that truly captures the essence of exploration and adventure."
+    },
+    {
+      "id": 11,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 1,
+        "name": "John Smith",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Red Dead Redemption 2 is an epic western masterpiece. The attention to detail is staggering, from the gorgeous vistas to the realistic horse mechanics. The story is emotional and thought-provoking, and the characters are some of the best written in gaming history. I highly recommend this game to anyone who loves a good story and immersive gameplay."
+    },
+    {
+      "id": 12,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 2,
+        "name": "Jane Doe",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Control is a supernatural thrill ride with a mind-bending story that will keep you on the edge of your seat. The combat is fun and the powers you get are varied and interesting. The setting is also a character in itself, with a unique and mysterious atmosphere that makes exploring the environment just as fun as the combat. Highly recommended."
+    },
+    {
+      "id": 13,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 3,
+        "name": "Bob Johnson",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Hades is a masterpiece of game design. The gameplay is fast-paced and addictive, and the story is expertly woven into the gameplay. The art style is beautiful and the voice acting is top-notch. I can't recommend this game enough, it's truly a work of art."
+    },
+    {
+      "id": 14,
+      "game": {
+        "id": 6,
+        "name": "Hades",
+        "posterUrl": "https://m.media-amazon.com/images/I/71FjVhf-SlL._AC_UF894,1000_QL80_.jpg",
+        "releaseYear": "2020"
+      },
+      "author": {
+        "id": 4,
+        "name": "Alice Chen",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Disco Elysium is a true work of art. The writing is brilliant, with sharp wit and an unapologetic exploration of heavy themes. The game mechanics are unique and add to the experience, making it feel like a true RPG. The world is rich and immersive, with gorgeous visuals and a haunting soundtrack. I highly recommend this game to anyone looking for a deep, immersive experience."
+    },
+    {
+      "id": 15,
+      "game": {
+        "id": 6,
+        "name": "Hades",
+        "posterUrl": "https://m.media-amazon.com/images/I/71FjVhf-SlL._AC_UF894,1000_QL80_.jpg",
+        "releaseYear": "2020"
+      },
+      "author": {
+        "id": 5,
+        "name": "James Lee",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Breath of the Wild is an amazing game that truly captures the essence of exploration and adventure."
+    },
+    {
+      "id": 16,
+      "game": {
+        "id": 6,
+        "name": "Hades",
+        "posterUrl": "https://m.media-amazon.com/images/I/71FjVhf-SlL._AC_UF894,1000_QL80_.jpg",
+        "releaseYear": "2020"
+      },
+      "author": {
+        "id": 1,
+        "name": "John Smith",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Red Dead Redemption 2 is an epic western masterpiece. The attention to detail is staggering, from the gorgeous vistas to the realistic horse mechanics. The story is emotional and thought-provoking, and the characters are some of the best written in gaming history. I highly recommend this game to anyone who loves a good story and immersive gameplay."
+    },
+    {
+      "id": 17,
+      "game": {
+        "id": 6,
+        "name": "Hades",
+        "posterUrl": "https://m.media-amazon.com/images/I/71FjVhf-SlL._AC_UF894,1000_QL80_.jpg",
+        "releaseYear": "2020"
+      },
+      "author": {
+        "id": 2,
+        "name": "Jane Doe",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Control is a supernatural thrill ride with a mind-bending story that will keep you on the edge of your seat. The combat is fun and the powers you get are varied and interesting. The setting is also a character in itself, with a unique and mysterious atmosphere that makes exploring the environment just as fun as the combat. Highly recommended."
+    },
+    {
+      "id": 18,
+      "game": {
+        "id": 3,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "posterUrl": "https://static.posters.cz/image/750/poster/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
+        "releaseYear": "2017"
+      },
+      "author": {
+        "id": 3,
+        "name": "Bob Johnson",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Hades is a masterpiece of game design. The gameplay is fast-paced and addictive, and the story is expertly woven into the gameplay. The art style is beautiful and the voice acting is top-notch. I can't recommend this game enough, it's truly a work of art."
+    },
+    {
+      "id": 19,
+      "game": {
+        "id": 3,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "posterUrl": "https://static.posters.cz/image/750/poster/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
+        "releaseYear": "2017"
+      },
+      "author": {
+        "id": 4,
+        "name": "Alice Chen",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Disco Elysium is a true work of art. The writing is brilliant, with sharp wit and an unapologetic exploration of heavy themes. The game mechanics are unique and add to the experience, making it feel like a true RPG. The world is rich and immersive, with gorgeous visuals and a haunting soundtrack. I highly recommend this game to anyone looking for a deep, immersive experience."
+    },
+    {
+      "id": 20,
+      "game": {
+        "id": 3,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "posterUrl": "https://static.posters.cz/image/750/poster/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
+        "releaseYear": "2017"
+      },
+      "author": {
+        "id": 5,
+        "name": "James Lee",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Breath of the Wild is an amazing game that truly captures the essence of exploration and adventure."
+    },
+    {
+      "id": 21,
+      "game": {
+        "id": 3,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "posterUrl": "https://static.posters.cz/image/750/poster/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
+        "releaseYear": "2017"
+      },
+      "author": {
+        "id": 1,
+        "name": "John Smith",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Red Dead Redemption 2 is an epic western masterpiece. The attention to detail is staggering, from the gorgeous vistas to the realistic horse mechanics. The story is emotional and thought-provoking, and the characters are some of the best written in gaming history. I highly recommend this game to anyone who loves a good story and immersive gameplay."
+    },
+    {
+      "id": 22,
+      "game": {
+        "id": 3,
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "posterUrl": "https://static.posters.cz/image/750/poster/the-legend-of-zelda-breath-of-the-wild-sunset-i40519.jpg",
+        "releaseYear": "2017"
+      },
+      "author": {
+        "id": 2,
+        "name": "Jane Doe",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Control is a supernatural thrill ride with a mind-bending story that will keep you on the edge of your seat. The combat is fun and the powers you get are varied and interesting. The setting is also a character in itself, with a unique and mysterious atmosphere that makes exploring the environment just as fun as the combat. Highly recommended."
+    },
+    {
+      "id": 23,
+      "game": {
+        "id": 6,
+        "name": "Hades",
+        "posterUrl": "https://m.media-amazon.com/images/I/71FjVhf-SlL._AC_UF894,1000_QL80_.jpg",
+        "releaseYear": "2020"
+      },
+      "author": {
+        "id": 3,
+        "name": "Bob Johnson",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Hades is a masterpiece of game design. The gameplay is fast-paced and addictive, and the story is expertly woven into the gameplay. The art style is beautiful and the voice acting is top-notch. I can't recommend this game enough, it's truly a work of art."
+    },
+    {
+      "id": 24,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 4,
+        "name": "Alice Chen",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Disco Elysium is a true work of art. The writing is brilliant, with sharp wit and an unapologetic exploration of heavy themes. The game mechanics are unique and add to the experience, making it feel like a true RPG. The world is rich and immersive, with gorgeous visuals and a haunting soundtrack. I highly recommend this game to anyone looking for a deep, immersive experience."
+    },
+    {
+      "id": 25,
+      "game": {
+        "id": 7,
+        "name": "Disco Elysium",
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2UxMTY2OTUtMzBlMy00Zjk4LThmY2UtMzVhOTlkOWEwYjdkXkEyXkFqcGdeQXVyMTMxNDI1OTQx._V1_.jpg",
+        "releaseYear": "2019"
+      },
+      "author": {
+        "id": 5,
+        "name": "James Lee",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAlQ8hy3d6LneEv-CKncD4lv9tzIODBd43Q&usqp=CAU"
+      },
+      "post": "Breath of the Wild is an amazing game that truly captures the essence of exploration and adventure."
+    }
+  ]
+}
